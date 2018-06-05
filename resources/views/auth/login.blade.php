@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+@section('title','Inicio de Sessión')
+
 @section('body-class','signup-page')
 
 @section('content')
